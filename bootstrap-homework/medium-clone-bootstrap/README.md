@@ -8,4 +8,4 @@ Check The Live Website -> [Live Website](https://taupe-semifreddo-032111.netlify
 
 ### Ana Sayfa
 
-![Ana SAyfa](https://i.imgur.com/sQnQ9ou.png)
+![Ana SAyfa](https://i.imgur.com/BQF52B6.png)
