@@ -6,6 +6,6 @@ Bu repo [Sıfırdan Python ve Django ile Dinamik Web Projeleri](https://www.udem
 
 * Bootstrap
   * Ödev 1
-    * [Compy Website](https://github.com/birseykoo/python-django-course/tree/main/corp-website-bootstrap-kurs)
+    * [Compy Website](https://github.com/birseykoo/python-django-course/tree/main/bootstrap-homework/corp-website-bootstrap-kurs)
   * Ödev 2
-    * [Medium Clone](https://github.com/birseykoo/python-django-course/tree/main/medium-clone-bootstrap)
+    * [Medium Clone](https://github.com/birseykoo/python-django-course/tree/main/bootstrap-homework/medium-clone-bootstrap)
