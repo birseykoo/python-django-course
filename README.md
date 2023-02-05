@@ -2,6 +2,7 @@
 
 Bu repo [Sıfırdan Python ve Django ile Dinamik Web Projeleri](https://www.udemy.com/course/sifirdan-python-ve-django-ile-dinamik-web-projeleri/) adlı Udemy kursunun ödevlerini içerir.
 
+Live demo's -> [Projelerim](https://lucky-syrniki-51b2d0.netlify.app/index.html)
 ## İçindekiler
 
 * Bootstrap
