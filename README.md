@@ -19,4 +19,4 @@ Live demo's -> [Projelerim](https://lucky-syrniki-51b2d0.netlify.app/index.html)
     * ![İlk Görüntü](https://github.com/birseykoo/python-django-course/blob/main/bootstrap-homework/img/X2l6HRoTlz.png?raw=true)
     * Ödev 3
     * [fiverr Clone](https://github.com/birseykoo/python-django-course/tree/main/bootstrap-homework/fiverr-clone-bootstrap)
-    * ![İlk Görüntü](https://i.imgur.com/giU5J2E.jpeg)
+    * ![İlk Görüntü](https://i.imgur.com/WoX63zM.png)
