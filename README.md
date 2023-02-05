@@ -4,9 +4,10 @@ Bu repo [Sıfırdan Python ve Django ile Dinamik Web Projeleri](https://www.udem
 
 Tüm projeler tek github reposu üzerinden güncellemek, kontrol etmek ve yayına almada farklı repoları kulanmak yerine tek bir repodan kontrol etmek için örnek bir blog şablonu hazırlanıp buradan kontrol edilmek için tasarlandı.
 
-Bunu deneme ve kursta edindiğim nilgileri farklı repolara açarak kontrolünü ve güncellemesini tek bir guthub reposu üzerinden yapmayı hedeflemem.
+Bunu öğrenimlerimde edindiğim bilgileri farklı repolar üzerinden sürekli netlify ve github'da çok fazla bağlantı olmasını engellemek ve tek bir repo üzerinden hem güncelleme ve kontrol sağlıyarak tek bir adresten deploy etmeyi hedefledim.
 
 Live demo's -> [Projelerim](https://lucky-syrniki-51b2d0.netlify.app/index.html)
+
 ## İçindekiler
 
 * Bootstrap
