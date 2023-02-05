@@ -2,6 +2,10 @@
 
 Bu repo [Sıfırdan Python ve Django ile Dinamik Web Projeleri](https://www.udemy.com/course/sifirdan-python-ve-django-ile-dinamik-web-projeleri/) adlı Udemy kursunun ödevlerini içerir.
 
+Tüm projeler tek github reposu üzerinden güncellemek, kontrol etmek ve yayına almada farklı repoları kulanmak yerine tek bir repodan kontrol etmek için örnek bir blog şablonu hazırlanıp buradan kontrol edilmek için tasarlandı.
+
+Bunu deneme ve kursta edindiğim nilgileri farklı repolara açarak kontrolünü ve güncellemesini tek bir guthub reposu üzerinden yapmayı hedeflemem.
+
 Live demo's -> [Projelerim](https://lucky-syrniki-51b2d0.netlify.app/index.html)
 ## İçindekiler
 
